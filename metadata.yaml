@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3132
     wikipedia: http://en.wikipedia.org/wiki/Geraldine_Bonner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35503#The-Girl-at-Central
 gutenberg_issued: '2011-03-06'
 gutenberg_type: Text
 identifiers:
